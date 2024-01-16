@@ -9,18 +9,32 @@ Para el caso del DENUE contiene la latitud, longitud, dirección, número de emp
 
 Inicialmente se hace un conteo por AGEE para así gráficar por entidad la cantidad de tiendas de abarrotes y de OXXO's que se ubican en cada estado de la república, teniendo como resultado los siguietes gráficos:
 
+
+<div align="center">
 Distribución por estado de la cadena comercial OXXO  
+</div>
 
+
+<div align="center">
 ![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_oxxo_tot.png)
+</div>
 
+
+<div align="center">
 Fuente: elaboración propia
+</div>
 
-
+<div align="center">
 Distribución por estado de las tiendas de abarrotes
+</div>
 
+<div align="center">
 ![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_aba_tot.png)
+</div>
 
+<div align="center">
 Fuente: elaboración propia
+</div>
 
 
 De los gráficos anteriores contrastan los estados de Nuevo León, Estado de México, Ciudad de México y Oaxaca. Nuevo León es el estado donde más registros hay de tiendas OXXO, con 1,816 sucursales y 15,910 tiendas de abarrotes; el Estado y la Ciudad de México resaltan porque contienen una alta densidad de tiendas de conveniencia y de abarrotes, en la Ciudad de México hay 11389 sucursales de OXXO y 38,001 tiendas de abarrotes, mientras que el Estado de Mèxico hay 1,582 sucursales de OXXO y 88,615 tiendas de abarrotes; el estado de Oaxaca hay 206 sucursales de OXXO y 31,333 tiendas de abarrotes.
@@ -31,11 +45,14 @@ De los tres casos expuestos con anterioridad resalta el del Estado y la Ciudad d
 Distribución de tiendas OXXO en la Ciudad y el Estado de México
 </div>
 
-
+<div align="center">
 ![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_oxxo.png)
+</div>
 
+
+<div align="center">
 Fuente: elaboración propia
-
+</div>
 
 
 
