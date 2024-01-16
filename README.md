@@ -9,8 +9,19 @@ Para el caso del DENUE contiene la latitud, longitud, dirección, número de emp
 
 Inicialmente se hace un conteo por AGEE para así gráficar por entidad la cantidad de tiendas de abarrotes y de OXXO's que se ubican en cada estado de la república, teniendo como resultado los siguietes gráficos:
 
-Distribución por estado de la cadena comercial OXXO
+<p align="center">
+  Distribución por estado de la cadena comercial OXXO  
+  ![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_oxxo_tot.png)
+  Fuente: elaboración propia
+</p>
 
-![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_oxxo_tot.png)
+
+Distribución por estado de las tiendas de abarrotes
+
+![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_aba_tot.png)
+
+Fuente: elaboración propia
+
+
 
 
