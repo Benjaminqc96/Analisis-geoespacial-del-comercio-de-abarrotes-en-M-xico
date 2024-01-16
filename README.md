@@ -27,11 +27,15 @@ De los gráficos anteriores contrastan los estados de Nuevo León, Estado de Mé
 
 De los tres casos expuestos con anterioridad resalta el del Estado y la Ciudad de México, son las entidades con mayor número de habitantes, con 16.9 y 9.2 millones de habitantes respectivamente, por lo que el enfoque será para estas dos entidades.
 
+<div align="center">
 Distribución de tiendas OXXO en la Ciudad y el Estado de México
+</div>
+
 
 ![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_oxxo.png)
 
 Fuente: elaboración propia
+
 
 
 
