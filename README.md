@@ -8,3 +8,9 @@ Los datos empleados provienen de dos fuentes, la fuente para las tiendas de abar
 Para el caso del DENUE contiene la latitud, longitud, dirección, número de empleados, cógigo postal, nombre del establecimiento entre otros, por otra parte la base de datos de Afirme contiene latitud, longitud, código postal, dirección y variables internas de la cadena. La base del DENUE está actualizada al año 2021 y la base que comparte banca Afirme al mes de abril de 2023.
 
 Inicialmente se hace un conteo por AGEE para así gráficar por entidad la cantidad de tiendas de abarrotes y de OXXO's que se ubican en cada estado de la república, teniendo como resultado los siguietes gráficos:
+
+Distribución por estado de la cadena comercial OXXO
+
+![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_oxxo_tot.png)
+
+
