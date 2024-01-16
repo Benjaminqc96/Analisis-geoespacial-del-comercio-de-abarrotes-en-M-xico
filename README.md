@@ -1,1 +1,2 @@
-# Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico
+# Análisis geoespacial del comercio de abarrotes en México
+
