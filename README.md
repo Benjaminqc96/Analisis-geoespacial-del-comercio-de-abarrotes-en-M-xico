@@ -15,11 +15,9 @@ Distribución por estado de la cadena comercial OXXO
 </div>
 
 
-<div aling ="center">
   
 ![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_oxxo_tot.png)
 
-</div>
 
 <div align="center">
 Fuente: elaboración propia
@@ -29,9 +27,7 @@ Fuente: elaboración propia
 Distribución por estado de las tiendas de abarrotes
 </div>
 
-<div align="center">
 ![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_aba_tot.png)
-</div>
 
 <div align="center">
 Fuente: elaboración propia
@@ -46,9 +42,7 @@ De los tres casos expuestos con anterioridad resalta el del Estado y la Ciudad d
 Distribución de tiendas OXXO en la Ciudad y el Estado de México
 </div>
 
-<div align="center">
 ![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_oxxo.png)
-</div>
 
 
 <div align="center">
@@ -56,6 +50,16 @@ Fuente: elaboración propia
 </div>
 
 
+<div align="center">
+Distribución de tiendas de abarrotes en la Ciudad y el Estado de México
+</div>
+
+![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_aba.png)
+
+
+<div align="center">
+Fuente: elaboración propia
+</div>
 
 
 
