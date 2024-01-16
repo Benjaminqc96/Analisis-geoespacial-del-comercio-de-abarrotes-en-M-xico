@@ -15,16 +15,9 @@ Distribución por estado de la cadena comercial OXXO
 </div>
 
 
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_oxxo_tot.png" 
-    >
-</img>
-
-
+<div style="text-align: center;">
+![alt text](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_oxxo_tot.png)
+</div>
 
 <div align="center">
 Fuente: elaboración propia
