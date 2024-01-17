@@ -19,9 +19,6 @@ Distribución por estado de la cadena comercial OXXO
 ![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_oxxo_tot.png)
 
 
-<div align="center">
-Fuente: elaboración propia
-</div>
 
 <div align="center">
 Distribución por estado de las tiendas de abarrotes
@@ -29,9 +26,6 @@ Distribución por estado de las tiendas de abarrotes
 
 ![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_aba_tot.png)
 
-<div align="center">
-Fuente: elaboración propia
-</div>
 
 
 De los gráficos anteriores contrastan los estados de Nuevo León, Estado de México, Ciudad de México y Oaxaca. Nuevo León es el estado donde más registros hay de tiendas OXXO, con 1,816 sucursales y 15,910 tiendas de abarrotes; el Estado y la Ciudad de México resaltan porque contienen una alta densidad de tiendas de conveniencia y de abarrotes, en la Ciudad de México hay 11389 sucursales de OXXO y 38,001 tiendas de abarrotes, mientras que el Estado de Mèxico hay 1,582 sucursales de OXXO y 88,615 tiendas de abarrotes; el estado de Oaxaca hay 206 sucursales de OXXO y 31,333 tiendas de abarrotes.
@@ -45,9 +39,6 @@ Distribución de tiendas OXXO en la Ciudad y el Estado de México
 ![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_oxxo.png)
 
 
-<div align="center">
-Fuente: elaboración propia
-</div>
 
 
 <div align="center">
@@ -57,11 +48,73 @@ Distribución de tiendas de abarrotes en la Ciudad y el Estado de México
 ![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/cont_aba.png)
 
 
+Ya con los conteos por AGEM, se procede a hacer un análisis puntual de aquellas en las que se encuentra la mayor concentración de tiendas OXXO, así como las que contienen mayor concentración de tiendas de abarrotes. Empleando la distancia de Haversine se estima la cantidad de tiendas de abarrotes que hay en un radio de 350 metros alrededor y asì estimar una densidad promedio
+
+
+El primer caso es el de la delegación Cuauhtémoc en la Ciudad de México, en la cuál hay 244 sucursales de tiendas OXXO y 1,825 tiendas de abarrotes. Con la metodología y los parámetros expuestos la densidad estimada es de 18.2 tiendas por cada OXXO 
+
 <div align="center">
-Fuente: elaboración propia
+Gráfico de dispersión de la alcaldía Cuauhtémoc 
 </div>
 
 
+![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/9.15.png)
 
+
+Con la metodología ya aplicada se puede apreciar que hay partes donde la densidad de los OXXO's es menor, de las cuales destacan las colonias Tlatelolco, Tepito y Peralvillo, mientras que donde se observa mayor densidad se encuentran colonias como la Condesa, Roma e Hipódromo.
+
+
+<div align="center">
+Gráfico de dispersión restringido de la alcaldía Cuauhtémoc 
+</div>
+
+![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/9.15.r.png)
+
+
+Con la restricción del radio de 350 metros alrededor de la tiendas OXXO algunos puntos se excluyen del gŕafico.
+
+
+El segundo caso que se expone es el del municipio de Toluca, en el cual se encuentran 180 sucursales de OXXO, y 5,508 tiendas de abarrotes. La densidad estimada es de 14.6 tiendas de abarrotes por cada OXXO.
+
+<div align="center">
+Gráfico de dispersión restringido del municipio de Toluca
+</div>
+
+![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/15.106.r.png)
+
+
+Únicamente se muestra el gráfico restringido con fines de visualización, ya que de lo contrario no es posible apreciar debido a la aglomeración de puntos en el mapa.
+
+El tercer caso es el de la alcaldía Benito Juárez en la Ciudad de México, en la cuál se encuentran 168 sucursales de OXXO y 680 tiendas de abarrotes, con una densidad estimada de 10.3 tiendas de abarrotes por cada OXXO.
+
+
+<div align="center">
+Gráfico de dispersión restringido de la alcaldía Benito Juárez
+</div>
+
+![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/9.14.r.png)
+
+
+Un par de casos que resaltan bastante es el de los municipios de Ecatepec y Nezahualcoyotl, los cuales se encuentran en la zona conurbada de la ciudad de México. Para el caso de Ecatepec, se encuentran 92 OXXO's y 9,616 tiendas de abarrotes, con una densidad estimada de 22.8 tiendas de abarrotes por cada OXXO.
+
+
+<div align="center">
+Gráfico de dispersión del municipio de Ecatepec
+</div>
+
+![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/15.33.png)
+
+
+las partes despobladas del municipio corresponden al parque ecológico Ehecatl, ubicado al poniente y a la ciénega de de san Juan, ubicada al oriente   
+
+Para el caso de Nezahualcoyotl. en él se encuentran 54 OXXO's y 5628 tiendas de abarrotes, con una densidad estimada de 37.1 tiendas de abarrotes por cada OXXO.
+
+<div align="center">
+Gráfico de dispersión del municipio de Nezahualcoyotl
+</div>
+
+![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/15.58.png)
+
+La parte deshabitada corresponde a una parte del parque ecológico del lago de Texcoco y al tramo carretero del anillo periférico.
 
 
