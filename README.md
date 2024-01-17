@@ -92,7 +92,7 @@ El tercer caso es el de la alcaldía Benito Juárez en la Ciudad de México, en 
 Gráfico de dispersión restringido de la alcaldía Benito Juárez
 </div>
 
-![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/9.14.r.png)
+![](https://github.com/Benjaminqc96/Analisis-geoespacial-del-comercio-de-abarrotes-en-M-xico/blob/main/9.14.png)
 
 
 Un par de casos que resaltan bastante es el de los municipios de Ecatepec y Nezahualcoyotl, los cuales se encuentran en la zona conurbada de la ciudad de México. Para el caso de Ecatepec, se encuentran 92 OXXO's y 9,616 tiendas de abarrotes, con una densidad estimada de 22.8 tiendas de abarrotes por cada OXXO.
